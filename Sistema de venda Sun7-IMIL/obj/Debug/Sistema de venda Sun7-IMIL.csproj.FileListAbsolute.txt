@@ -1,0 +1,32 @@
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\bin\Debug\Sistema de venda Sun7-IMIL.exe.config
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\bin\Debug\Sistema de venda Sun7-IMIL.exe
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\bin\Debug\Sistema de venda Sun7-IMIL.pdb
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.csprojResolveAssemblyReference.cache
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Properties.Resources.resources
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.csproj.GenerateResource.Cache
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.exe
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.pdb
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_F.resources
+c:\users\lucrécio d. barnsbé\documents\visual studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_Adimin.resources
+C:\Users\Lucrécio D. Barnsbé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Login_F.resources
+C:\Users\Lucrécio D. Barnsbé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_Cad.resources
+C:\Users\Lucrécio D. Barnsbé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.form_Edit.resources
+C:\Users\Lucrécio D. Barnsbé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.fornrcidor.resources
+C:\Users\Lucrécio D. Barnsbé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_rela.resources
+C:\Users\Lucrécio D. Barnsbé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.fatura_sun7.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\bin\Debug\Sistema de venda Sun7-IMIL.exe.config
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.exe
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.pdb
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\bin\Debug\Sistema de venda Sun7-IMIL.exe
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.csprojResolveAssemblyReference.cache
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.fatura_sun7.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_F.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_Adimin.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_Cad.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.form_Edit.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Form_rela.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.fornrcidor.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Login_F.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema_de_venda_Sun7_IMIL.Properties.Resources.resources
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\obj\Debug\Sistema de venda Sun7-IMIL.csproj.GenerateResource.Cache
+C:\Users\Barnabé\Documents\Visual Studio 2015\Projects\Sistema de venda Sun7-IMIL\Sistema de venda Sun7-IMIL\bin\Debug\Sistema de venda Sun7-IMIL.pdb
