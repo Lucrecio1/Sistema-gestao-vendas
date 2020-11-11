@@ -6,7 +6,7 @@ Sistema de Gestão e vendas.
 
 - [X] Lucrécio Barnabé 
 
-
+### Tecnologias utilizadas
 * mysql conector 
 * SQL 
 * C#
