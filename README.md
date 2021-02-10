@@ -2,7 +2,7 @@
 Sistema de Gestão e vendas.
 
 #### gerenciamento de vendas de produtos de sexta básica 
-## Programadores 
+## Programadore
 
 - [X] Lucrécio Barnabé 
 
